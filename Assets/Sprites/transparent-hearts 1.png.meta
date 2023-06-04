@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 35b2751cb9999432a8a85c312684147e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4091388904233703831
+    second: transparent-hearts 1_0
+  - first:
+      213: -5079051137539089988
+    second: transparent-hearts 1_1
+  - first:
+      213: -5246470086957426429
+    second: transparent-hearts 1_2
+  - first:
+      213: 770060453717716354
+    second: hearts_containers
+  - first:
+      213: 3041815819328607834
+    second: transparent-hearts 1_4
+  - first:
+      213: -526204240796997203
+    second: transparent-hearts 1_5
+  - first:
+      213: -6556368783480557127
+    second: transparent-hearts 1_6
+  - first:
+      213: 2221520302000478393
+    second: transparent-hearts 1_7
+  - first:
+      213: 5166021439640989474
+    second: transparent-hearts 1_8
+  - first:
+      213: 7034177216743233214
+    second: transparent-hearts 1_9
+  - first:
+      213: -6357251407362895974
+    second: transparent-hearts 1_10
+  - first:
+      213: 3469138649116608961
+    second: hearts_full
+  - first:
+      213: -2757249154212946840
+    second: transparent-hearts 1_12
+  - first:
+      213: -2340945933823995602
+    second: transparent-hearts 1_13
+  - first:
+      213: -3635841297983042662
+    second: transparent-hearts 1_14
+  - first:
+      213: 8125791675111866676
+    second: transparent-hearts 1_15
+  - first:
+      213: -6682469448368056798
+    second: transparent-hearts 1_16
+  - first:
+      213: 457776374476762390
+    second: transparent-hearts 1_17
+  - first:
+      213: -6213646650993618205
+    second: transparent-hearts 1_18
+  - first:
+      213: 2381023395786949497
+    second: transparent-hearts 1_19
+  - first:
+      213: -4144677955935675594
+    second: transparent-hearts 1_20
+  - first:
+      213: -6781856262779975770
+    second: transparent-hearts 1_21
+  - first:
+      213: 3431077834471077454
+    second: transparent-hearts 1_22
+  - first:
+      213: 7856441372919374906
+    second: transparent-hearts 1_23
+  - first:
+      213: 4742747842135957786
+    second: transparent-hearts 1_24
+  - first:
+      213: -266085747756503300
+    second: transparent-hearts 1_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: transparent-hearts 1_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 509
+        width: 276
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79913d2088887c830800000000000000
+      internalID: 4091388904233703831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 509
+        width: 276
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb950fe76e59389b0800000000000000
+      internalID: -5079051137539089988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 552
+        width: 222
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309903eb04bc037b0800000000000000
+      internalID: -5246470086957426429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_containers
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 373
+        width: 824
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dab6717edcfaa00800000000000000
+      internalID: 770060453717716354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 374
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56de371f53b63a20800000000000000
+      internalID: 3041815819328607834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 374
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9adfbe70c82b8f0800000000000000
+      internalID: -526204240796997203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 374
+        width: 224
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17e2c14591305a0800000000000000
+      internalID: -6556368783480557127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 374
+        width: 148
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b89e0ec1fc64de10800000000000000
+      internalID: 2221520302000478393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 373
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f6adbe02561b740800000000000000
+      internalID: 5166021439640989474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_9
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 373
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb65023f8ea6e9160800000000000000
+      internalID: 7034177216743233214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_10
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 373
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f4844f68186c7a0800000000000000
+      internalID: -6357251407362895974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_full
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 292
+        width: 823
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c98c29983bd42030800000000000000
+      internalID: 3469138649116608961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 294
+        width: 224
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c14e5b0884cb9d0800000000000000
+      internalID: -2757249154212946840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 294
+        width: 148
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219608731a438fd0800000000000000
+      internalID: -2340945933823995602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_14
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 293
+        width: 222
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b860e5a95ea8dc0800000000000000
+      internalID: -3635841297983042662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 237
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4318ed9e97c94c070800000000000000
+      internalID: 8125791675111866676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 237
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2261f9321791343a0800000000000000
+      internalID: -6682469448368056798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 236
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61de04bef295a5600800000000000000
+      internalID: 457776374476762390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_18
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 236
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2dabfca41b4c9a0800000000000000
+      internalID: -6213646650993618205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 236
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97386cbc9281b0120800000000000000
+      internalID: 2381023395786949497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 236
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bdf08cb552b76c0800000000000000
+      internalID: -4144677955935675594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 236
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7cd3b29a102e1a0800000000000000
+      internalID: -6781856262779975770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 236
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e467d50ac13ad9f20800000000000000
+      internalID: 3431077834471077454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_23
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 236
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34aa8fadcfa70d60800000000000000
+      internalID: 7856441372919374906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_24
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 236
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11a3c5c800a1d140800000000000000
+      internalID: 4742747842135957786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-hearts 1_25
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 235
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeed251c6cae4cf0800000000000000
+      internalID: -266085747756503300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
